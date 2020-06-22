@@ -1,13 +1,7 @@
 # Angular Table Builder
 
-<p>
-  <a href="https://travis-ci.org/github/Angular-RU/angular-table-builder">
-    <img src="https://travis-ci.org/Angular-RU/angular-table-builder.svg?branch=master" />
-  </a>
-  <a href="https://badge.fury.io/js/%40angular-ru%2Fng-table-builder">
-    <img src="https://badge.fury.io/js/%40angular-ru%2Fng-table-builder.svg" />
-  </a>
-</p>
+[![npm version](https://badge.fury.io/js/%40angular-ru%2Fng-table-builder.svg)](https://badge.fury.io/js/%40angular-ru%2Fng-table-builder)
+[![npm-stat](https://img.shields.io/npm/dt/@angular-ru/ng-table-builder.svg)](https://npm-stat.com/charts.html?package=@angular-ru/ng-table-builder&from=2017-01-12)
 
 The Angular Table Builder includes a comprehensive set of ready-to-use features covering everything from paging,
 sorting, filtering, editing, and grouping to row and column virtualization, and accessibility support.
