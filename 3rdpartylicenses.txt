@@ -26,9 +26,6 @@ SOFTWARE.
 @angular-ru/common
 MIT
 
-@angular-ru/ng-table-builder
-MIT
-
 @angular-ru/sdk
 MIT
 
